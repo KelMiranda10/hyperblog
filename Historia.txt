@@ -6,4 +6,6 @@ Hoy hablaremos de mi historia.
 
 Master 1
 
+Master 2
+
 Esta linea es para saber que hace el reset --soft
